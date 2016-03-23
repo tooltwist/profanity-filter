@@ -1,10 +1,8 @@
 # profanity-filter
 
-This project is derived, with many thanks, from jwils0n/profanity-filter, with changed by Antonio Alejandro.
-
-[![Build Status](https://travis-ci.org/jwils0n/profanity-filter.png)](https://travis-ci.org/jwils0n/profanity-filter)
-
 A static node.js utility for masking words or phrases in strings that aren't allowed.
+
+This project is derived, with many thanks, from https://github.com/jwils0n/profanity-filter, with a few changes by Antonio Alejandro.
 
 ## configuration
 
